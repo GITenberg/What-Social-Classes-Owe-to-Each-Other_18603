@@ -1,0 +1,28 @@
+_repo: What-Social-Classes-Owe-to-Each-Other_18603
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sumner, William Graham
+    birthdate: 1840
+    deathdate: 1910
+    gutenberg_agent_id: '8140'
+    url: http://www.gutenberg.org/2009/agents/8140
+    wikipedia: http://en.wikipedia.org/wiki/William_Graham_Sumner
+description: ''
+gutenberg_issued: '2006-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18603'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social ethics'
+- !lcsh 'Economics'
+- !lcc 'HN'
+title: What Social Classes Owe to Each Other
+url: http://www.gutenberg.org/ebooks/18603
